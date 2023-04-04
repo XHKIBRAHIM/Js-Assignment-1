@@ -1,5 +1,5 @@
 
-// Program no 4
+// Program no 5
 
     var userNumber =+ prompt("Enter number")
 if(userNumber %5==0 && userNumber%11==0){
